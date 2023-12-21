@@ -9,7 +9,7 @@ export default function About() {
                 alt="logo"
             />
             <p className="px-10 text-center text-md md:text-2xl md:px-32 lg:px-64 xl:px-80">
-                This website was made by M.Faqih Ridho in 2022. Website made
+                This website was made by shanachan in 2024. Website made
                 with the pourpose of study and try React js,React Redux and
                 Tailwind.{" "}
                 <a
@@ -27,7 +27,7 @@ export default function About() {
                     target={"_blank"}
                     href="https://dribbble.com/shots/14879802-MyAnimeList-Website-Redesign/attachments/6591878?mode=media"
                 >
-                    Jikan FREE API
+                    shallow FREE API
                 </a>{" "}
                 .New routes and details page are still under construction
             </p>
