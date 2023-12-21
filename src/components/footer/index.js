@@ -36,13 +36,13 @@ export default function Footer() {
                     <SocialIcon
                         bgColor={dark ? "#f3f4f6" : "#374151"}
                         style={{ height: "30px", width: "30px" }}
-                        url="https://www.instagram.com/mfaqihridho/"
+                        url="https://www.instagram.com/rizaedtz01/"
                         target={"_blank"}
                         rel="noreferrer"
                         className="mx-3"
                     />
                 </div>
-                <h5 className="mb-3 text-xl md:mb-5">MFaqihRidho © 2022</h5>
+                <h5 className="mb-3 text-xl md:mb-5">Ahmad Riza © 2024</h5>
                 <div className="w-full h-0.5 bg-gray-700 dark:bg-gray-200 mb-2"></div>
                 <p className="mb-2">
                     Powered By{" "}
@@ -52,7 +52,7 @@ export default function Footer() {
                         rel="noreferrer"
                         className="underline"
                     >
-                        JIKAN API
+                        shallow API
                     </a>
                 </p>
 
@@ -64,7 +64,7 @@ export default function Footer() {
                         rel="noreferrer"
                         className="underline underline-offset-2"
                     >
-                        Find icons created by Freepik - Flaticon
+                        Find icons created by shallowvernal - Flaticon
                     </a>
                 </p>
             </div>
