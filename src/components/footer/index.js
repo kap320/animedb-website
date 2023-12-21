@@ -20,7 +20,7 @@ export default function Footer() {
                     <SocialIcon
                         bgColor={dark ? "#f3f4f6" : "#374151"}
                         style={{ height: "30px", width: "30px" }}
-                        url="https://github.com/MFaqihRidho"
+                        url="https://github.com/shallowvernal"
                         target={"_blank"}
                         rel="noreferrer"
                         className="mx-3 text-black"
